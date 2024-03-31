@@ -1,5 +1,5 @@
 # ArtXChangeApp
-Released in the summer of 2023
+Released in the summer of 2023. App Store link: https://apps.apple.com/us/app/artxchange/id1553190024?platform=iphone
 
 Experience the future of art with ArtXChange. Dive into immersive augmented reality displays, feel every emotion behind each masterpiece, and effortlessly connect with artists. All for free. Revolutionize your artistic encounters and bridge the gap between creator and enthusiast like never before. 
 
