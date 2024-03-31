@@ -6,4 +6,4 @@ Experience the future of art with ArtXChange. Dive into immersive augmented real
 ArtXChange is just in its beginnings, and there is a lot of work to do. Your feedback is truly appreciated as it will help us as we transform this space into redefining the virtual world. 
 
 
-![Image Alt text](/Images/Screenshot 2024-03-31 at 1.43.51 PM.png
+![Image Alt text](/Images/Screenshot 2024-03-31 at 1.43.51 PM.png)
